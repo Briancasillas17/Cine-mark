@@ -1,7 +1,7 @@
 # Cine-mark
 
 Deployed application is available at:
-
+ https://briancasillas17.github.io/Cine-mark/
 
 
 
